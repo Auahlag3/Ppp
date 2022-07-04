@@ -1,0 +1,15 @@
+{
+  "ownerNumber": ["6283818717862@s.whatsapp.net"],
+  "ownerName": "DataBotz",
+  "BotName": "Data Botz",
+  "Footer": "© Created By Yaudah Enggak",
+  "email": "Wa4710441@gmail.com",
+  "website": "https://github.com/Lexxy24",
+  "region": "indonesia",
+  "pathimg": "./media/neobot.jpg",
+  "limitCount": 4000,
+  "gcount": {
+	"prem": 9999,
+	"user": 9000
+  }
+}
